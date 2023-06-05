@@ -1,0 +1,4 @@
+.\createModel.ps1 CT-C-0018D\SQLEXPRESS testentity --> criar as classes baseadas no banco
+
+
+arquivo powerShell sql nome_do_banco
